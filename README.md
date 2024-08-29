@@ -156,7 +156,7 @@ These endpoints manage the food data stored in the database. Most of these endpo
 
 ## 🧪 Test Endpoints
 
-These endpoints are used for testing and do not interact with the database.
+
 
 ### 8. Get User Info
 - **URL:** `/get-user/<user_id>`
